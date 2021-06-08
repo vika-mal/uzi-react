@@ -1,0 +1,12 @@
+.sidebar {
+    max-width: 250px;
+    background-color: rgb(99, 97, 122);
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+    &__title {
+        font-size: 18px;
+        font-weight: 500;
+        padding: 25px 10px;
+        color: rgb(48, 45, 45);
+    }
+}

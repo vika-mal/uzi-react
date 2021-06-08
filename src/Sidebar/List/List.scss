@@ -1,0 +1,29 @@
+.sidebar {
+    &__nav {
+        &-list {
+            display: flex;
+            flex-wrap: wrap;
+            flex-direction: column;
+            padding: 10px 25px 30px 25px;
+        }
+        &-item {
+            display: block;
+        }
+        &-link {
+            display: block;
+            padding: 10px 5px;
+            font-size: 17px;
+            color: rgb(34, 31, 31);
+            margin-bottom: 7px;
+            border-radius: 10px;
+        }
+        &-link:hover {
+            color: rgb(56, 51, 51);
+            background-color: rgba(229, 204, 188, 0.438);
+
+            box-shadow: 3px 3px 6px rgba(48, 44, 42, 0.918);
+            transition: all 0.4s;
+            transform: translate(-3px, 2px);
+        }
+    }
+}
