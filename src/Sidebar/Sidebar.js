@@ -1,13 +1,16 @@
 import "./Sidebar.scss";
 import List from "./List/List";
 import { dataList } from "../Data/Data";
+import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 
 function Sidebar() {
   const listItems = Array.from(dataList);
   // console.log(listItems);
   return (
     <div className="sidebar">
-      <h1 className='sidebar__title'><a href='/'>АТЛАС УЛЬТРАЗВУКОВОЙ ДИАГНОСТИКИ</a></h1>
+      <h1 className="sidebar__title">
+        <Link to="/">АТЛАС УЛЬТРАЗВУКОВОЙ ДИАГНОСТИКИ</Link>
+      </h1>
       <List listItems={listItems} />
     </div>
   );

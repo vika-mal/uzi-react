@@ -5,12 +5,14 @@
 body {
   font-family: "Roboto", sans-serif;
   font-size: 14px;
-  background-color: rgba(229, 204, 188, 0.438);
 }
 input,
 button,
 textarea {
   font-family: inherit;
+}
+img {
+  width: 100%;
 }
 a,
 a:visited,

@@ -1,4 +1,5 @@
 import "./List.scss";
+import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 
 function List(props) {
   const listItems = props.listItems;
@@ -6,7 +7,7 @@ function List(props) {
   const listItem = listItems.map((elem) => {
     return (
       <li className="sidebar__nav-item" key={elem.id}>
-        <a className="sidebar__nav-link" href="/">{elem.title}</a>
+        <Link to={elem.path} className="sidebar__nav-link" >{elem.title}</Link>
       </li>
     );
   });
