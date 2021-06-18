@@ -1,6 +1,6 @@
 export const gallBladDB = [
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
+  { id: 1, src: "./img/gallblad/gallblad1.jpg", title: "Gallbladder stone", text: 'Gallstones or cholelithiasis are a major public health problem in Europe and other developed countries and affect up to 20% of the population. Gallstone disease is the most common gastrointestinal disorder for which patients are admitted to hospitals in European countries [1]. The interdisciplinary care for patients with gallstone disease has advanced considerably during recent decades thanks to a growing insight into the pathophysiological mechanisms and remarkable technical developments in endoscopic and surgical procedures. In contrast, primary prevention for this common disease is still in its infancy.' },
+  { id: 2, src: "./img/gallblad/gallblad2.jpg", title: "Gallbladder polyp", text: 'Gallbladder polyps are growths or lesions resembling growths (polypoid lesions) in the wall of the gallbladder. True polyps are abnormal accumulations of mucous membrane tissue that would normally be shed by the body. Most polyps do not cause noticeable symptoms.' },
+  { id: 3, src: "./img/gallblad/gallblad3.jpg", title: "Multiple gallbladder stones", text: 'Gallstones are pebble-like nuisances that can form inside the gallbladder. The gallbladder is a pouch that collects bile as that liquid flows from the liver to the intestine through the bile ducts. Bile is a fluid that is made, in part, to help with digestion. The salts in bile make it easier for you to digest fat. Bile also contains some waste products including cholesterol and bilirubin (created when old red blood cells are destroyed).' },
  
 ];
