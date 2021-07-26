@@ -1,19 +1,6 @@
 export const gynDB = [
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  
+  { id: 1, src: "./img/gyn/gyn1.jpg", title: "Киста яичника", text: 'Киста яичника – это образование, представляющее собой тонкостенную полость, заполненную жидкостью. ' },
+  { id: 2, src: "./img/gyn/gyn2.jpg", title: "Миома матки", text: 'Миома матки — это заболевание, характеризующееся появлением в мышечном слое матки (миометрии) доброкачественной опухоли.  ' },
+  { id: 3, src: "./img/gyn/gyn3.jpg", title: "Полип эндометрия", text: 'Полип эндометрия (полип тела матки) — это доброкачественное образование, связанное с разрастанием эндометрия (внутренней слизистой оболочки тела матки) и формирующееся из его базального слоя. ' },
+
 ];

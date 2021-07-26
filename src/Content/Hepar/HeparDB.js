@@ -1,19 +1,5 @@
 export const heparDB = [
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  
+  { id: 1, src: "./img/hepar/hepar1.jpg", title: "Киста печени", text: 'Киста печени (код МКБ 10) – это очень распространенное очаговое доброкачественное новообразование печени, представляющее собой полость, заполненную жидкостью, состав которой зависит от вида новообразования.' },
+  { id: 2, src: "./img/hepar/hepar2.jpg", title: "Гемангиома печени", text: 'Гемангиома печени – это доброкачественное сосудистое новообразование, локализирующееся в паренхиме печени. Данная опухоль в 6 раз чаще встречается у женщин, чем у мужчин, что обусловлено влиянием женского полового гормона эстрогена на ее рост и развитие.' },
+  { id: 3, src: "./img/hepar/hepar3.jpg", title: "Метастазы печени", text: 'Причина высокой вероятности метастазирования рака в печень кроется в особой функции и анатомической особенности этого органа. Печень является мощным фильтром организма от различных вредных веществ: за одну минуту она очищает от токсинов до полутора литров крови. При онкологических заболеваниях раковые клетки с кровотоком проходят через печень, по истечении определенного времени формируя в ней новые опухолевые очаги.' },
 ];

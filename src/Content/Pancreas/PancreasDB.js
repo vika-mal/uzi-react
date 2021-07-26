@@ -1,14 +1,5 @@
 export const pancreasDB = [
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  
+  { id: 1, src: "./img/pancreas/pancreas1.jpg", title: "Острый панкреатит", text: 'Изменения непосредственно в поджелудочной железе: увеличение размеров поджелудочной железы, нечеткость контуров, изменение эхогенности железы.' },
+  { id: 2, src: "./img/pancreas/pancreas2.jpg", title: "Опухоль поджелудочной железы", text: 'Наиболее распространенным результатом сонографии является плохо выраженное образование в области поджелудочной железы. Поражение представляет собой локализованное изменение эхогенности текстуры железы.' },
+  { id: 3, src: "./img/pancreas/pancreas3.jpg", title: "Острый панкреатит. Киста.", text: 'При ультразвуковом исследовании оментобурсит представлен в виде анэхогенного образования с четкими контурами, неправильной или округлой формы, чаще с однородной структурой, с толщиной стенок 0,2 - 0,4 см. ' },
 ];

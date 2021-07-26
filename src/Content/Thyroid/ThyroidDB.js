@@ -1,16 +1,3 @@
 export const thyroidDB = [
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  
+  { id: 1, src: "./img/thyroid/thyroid1.jpg", title: "Узел щитовидной железы", text: 'Узел щитовидной железы – это ограниченное нарушение структуры ткани железы, которое выявляется при внешнем осмотре, пальпации или при УЗ-исследовании. ' },
 ];

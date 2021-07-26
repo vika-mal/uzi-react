@@ -1,19 +1,5 @@
 export const mammDB = [
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  { id: 1, src: "./img/hepar/hepar.jpg", title: "Normal hepar" },
-  
+  { id: 1, src: "./img/mamm/mamm1.jpg", title: "Киста молочной железы", text: 'Кисты молочной железы развиваются естественным образом, когда молочная железа изменяется в зависимости от фазы менструального цикла, возраста, из-за физиологических колебаний уровня гормонов. Обычно встречается сразу несколько кист в обеих молочных железах.' },
+  { id: 2, src: "./img/mamm/mamm2.jpg", title: "Киста молочной железы", text: 'Кисты молочной железы развиваются естественным образом, когда молочная железа изменяется в зависимости от фазы менструального цикла, возраста, из-за физиологических колебаний уровня гормонов. Обычно встречается сразу несколько кист в обеих молочных железах.' },
+  { id: 3, src: "./img/mamm/mamm3.jpg", title: "Киста молочной железы", text: 'Кисты молочной железы развиваются естественным образом, когда молочная железа изменяется в зависимости от фазы менструального цикла, возраста, из-за физиологических колебаний уровня гормонов. Обычно встречается сразу несколько кист в обеих молочных железах.' },
 ];

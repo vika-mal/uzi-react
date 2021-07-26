@@ -5,11 +5,12 @@ import { useState } from 'react';
 function GallBlad() {
   const gallBladData = Array.from(gallBladDB);
   const [modalActive, setModalActive] = useState(null);
+
   const gallBladItem = gallBladData.map((elem, index) => {
     return (
       <div key={index} className="content__item">
         <div className='content__item-wrapper'>
-          <img className="content__img"  src={elem.src} alt={elem.title} onClick={() => { setModalActive(index) }} />
+          <img className="content__img" src={elem.src} alt={elem.title} onClick={() => { setModalActive(index) }} />
           <h2 className="content__title" >{elem.title}</h2>
         </div>
         <div className={modalActive === index ? 'modal active' : 'modal'} onClick={() => { setModalActive(null) }}>
