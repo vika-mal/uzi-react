@@ -1,0 +1,43 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    color: rgb(48, 45, 45);
+    width: 500px;
+    height: auto;
+    margin: auto;
+    padding: 30px;
+}
+.auth {
+    display: flex;
+    flex-direction: column;
+    &__header {
+        padding: 25px 0;
+        margin: 0 auto;
+        font-size: 20px;
+        font-weight: bold;
+    }
+    &__input {
+        background-color: rgba($color: #d3d3d3, $alpha: 0.4);
+        font-size: 14px;
+        padding: 10px;
+        outline: none;
+        border-radius: 10px;
+        border: 1px solid rgba($color: #5f5e5e, $alpha: 1);
+        margin: 15px 0;
+    }
+}
+
+.btn {
+    font-size: 20px;
+    padding: 7px 25px;
+    border-radius: 15px;
+    border: none;
+    background-color: rgba($color: #686363, $alpha: 0.4);
+    cursor: pointer;
+    margin: 10px auto;
+    transition: 0.4s;
+    &:hover {
+        background-color: rgba($color: #523939, $alpha: 0.4);
+        transition: 0.4s;
+    }
+}
